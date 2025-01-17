@@ -1,5 +1,5 @@
 ДЛЯ_МЕНЯ_РАЗРАБА Softer_Private 9999.12.12        //ключ на всегда
-ДЛЯ_ВИДУЩЕГО_КАНАЛА Softer_Privateь 9999.12.12    //ключ на всегда
+ДЛЯ_ВИДУЩЕГО_КАНАЛА Softer_Private  9999.12.12    //ключ на всегда
 Soft_User12345678 aB3dEf1@xY2z
 Soft_User23456789 qWErTy123!
 Soft_User34567890 sD4fGt&7kLp
